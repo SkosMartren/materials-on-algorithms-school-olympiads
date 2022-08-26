@@ -1,1 +1,1 @@
-(https://olympiads.ru/index.shtml)[Олимпиады по программированию]
+https://olympiads.ru/index.shtml - Олимпиады по программированию
